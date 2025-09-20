@@ -1,0 +1,5 @@
+{
+  "name": "Haiku Battle",
+  "description": "Create a live agent using bidirectional streaming for unlimited haiku battles",
+  "requestFramePermissions": []
+}
